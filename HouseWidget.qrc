@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/HouseWidget">
+        <file>C:/Users/cy/Desktop/houseicon.png</file>
+    </qresource>
+</RCC>
